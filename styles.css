@@ -1,7 +1,18 @@
+<<<<<<< Updated upstream
+=======
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, sans-serif;
+    margin: 50px
+  }
+
+/* First slideshow */
+>>>>>>> Stashed changes
 * {
     box-sizing: border-box
   }
 
+<<<<<<< Updated upstream
   h1{
     text-align: center;
   }
@@ -15,17 +26,35 @@
   .mySlides {
     display: none;
     margin-top: 50px;
+=======
+  span {
+    background-color: azure;
+  }
+ 
+  .mySlides {
+    display: none
+>>>>>>> Stashed changes
   }
   img {
     vertical-align: middle;
   }
   .slideshow-container {
+<<<<<<< Updated upstream
     max-width: 500px;
     position: relative;
     display: block;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto  }
+=======
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    max-width: 400px;
+    position: relative;
+  }
+>>>>>>> Stashed changes
   /* Next & previous buttons */
   .prev,
   .next {
