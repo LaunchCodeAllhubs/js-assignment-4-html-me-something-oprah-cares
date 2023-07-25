@@ -20,13 +20,13 @@ body {
     margin: 40px
   }
 
-  /* .first-section {
-    background:  rgba(230, 230, 250, 0.699);
-  } */
-  
   .first-section > h2, p, li {
     margin: 4px;
     font-size: 90%;
+  }
+
+  #highlight {
+    background-color: whitesmoke;
   }
 
 /* First slideshow */
